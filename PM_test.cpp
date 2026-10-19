@@ -8,7 +8,7 @@ int main()
     std::cout << "Hello!\n";
 
 
-    std::cout << " New Wolld\n";
+    std::cout << "Hello! New hub\n";
 
 
 }
